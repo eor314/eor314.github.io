@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Eric Orenstein"
   avatar : "/assets/images/erico.jpg"
   bio    : "Senior Research Scientist eric.orenstein [at] noc [dot] ac [dot] uk"
   links:
