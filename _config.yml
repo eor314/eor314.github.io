@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Eric Orenstein"
-  avatar : "assets/images/erico.jpg"
+  avatar : "/assets/images/erico.jpg"
   bio    : "Senior Research Scientist eric.orenstein [at] noc.ac.uk"
   links:
     - label: "Profile"
