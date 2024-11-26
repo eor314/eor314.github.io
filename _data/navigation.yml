@@ -1,7 +1,5 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "NOC AI Team"
+    url: /ai-team/
+  - title: "Publications"
+    url: /publications/
