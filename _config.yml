@@ -58,7 +58,7 @@ author:
   avatar : "/assets/images/erico.jpeg"
   bio    : "Senior Research Scientist eric.orenstein [at] noc.ac.uk"
   links:
-    - label: "Profile"
+    - label: "NOC Staff Profile"
       icon: "fas fa-fw fa-link"
       url: "https://noc.ac.uk/n/Eric+Orenstein"
     - label: "GitHub"
