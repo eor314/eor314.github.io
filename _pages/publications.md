@@ -11,7 +11,7 @@ classes: "wide"
 \
 \
 \
-![image-left](/assets/images/papers/2022/2022-fathomnet-sci-rep.png){: width="250" }{: .align-left}
+![image-left](/assets/images/papers/2023/2023-kenitz.png){: width="250" }{: .align-left}
 Kenitz, K.M., C.R. Anderson, M.L Carter, E. Eggleston, K. Seech, R. Chipe, J. Smith, **E.C Orenstein**, P.J.S. Franks, J.S. Jaffe, and A. D. Barton. 2023. Environmental and ecological drivers of harmful algal blooms in the Southern California Bight. *Limnology and Oceanography* 68: 598-615. \[[paper](https://doi.org/10.1002/lno.12297)\]
 
 ## 2022
@@ -28,3 +28,10 @@ Kenitz, K.M., C.R. Anderson, M.L Carter, E. Eggleston, K. Seech, R. Chipe, J. Sm
 \
 \
 ![image-left](/assets/images/papers/2022/2022-meps-2.png){: width="250" }{: .align-left} **Orenstein, E.C.**, E. Saberski, C. Briseño-Avena. 2022. Discovery and dynamics of a cryptic marine copepod-parasite interaction. *Marine Ecology Progress Series* 691: 29-40. \[[paper]( https://doi.org/10.3354/meps14072)\]
+
+## 2021
+![image-left](/assets/images/papers/2021/walker-iccv.png){: width="250" }{: .align-left} Walker, J. and **E.C. Orenstein**. 2021. Improving rare-class recognition of marine plankton with hard negative mining *IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)* pp. 3672-3682. \[[paper](https://openaccess.thecvf.com/content/ICCV2021W/OceanVision/html/Walker_Improving_Rare-Class_Recognition_of_Marine_Plankton_With_Hard_Negative_Mining_ICCVW_2021_paper.html)\]
+\
+\
+\
+![image-left](/assets/images/papers/2021/2021-ronen.png){: width="250" }{: .align-left} Ronen, R., Y. Attias, Y.Y. Schechner, J.S. Jaffe, and **E.C. Orenstein**. 2021. Plankton reconstruction through robust statistical optical tomography. *Journal of the Optical Society of America A* 38(9): 1320-1331.  \[[paper](https://doi.org/10.1364/JOSAA.423037)\]
