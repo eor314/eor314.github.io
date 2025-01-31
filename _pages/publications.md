@@ -1,10 +1,17 @@
 ---
 permalink: /publications/
-title: "Publications and Outputs"
+title: "Selected Publications and Outputs"
 classes: "wide"
 ---
+A complete list of publications and outputs can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=JlqDXrUAAAAJ&hl=en). 
+
 ## 2024
 ![image-left](/assets/images/papers/2024/sciadv.adj4960-f2.jpg){: width="250" }{: .align-left} Burns, J.A., K.P. Becker, D. Casagrande, J. Daniels, P.L.D. Roberts, **E.C. Orenstein**, D.M. Vogt, Z.E. Teoh, A. Yin, B. Genot, D.F. Gruber, K. Katija, R.J. Wood, B.T. Phillips. 2024. An integrated digital holotype strategy for delicate deep-sea organisms. *Science Advances*. \[[paper](https://doi.org/10.1126/sciadv.adj4960)\]
+\
+\
+\
+![image-left](/assets/images/papers/2023/2023-fn-fgvc.png){: width="250" }{: .align-left}
+**E.C. Orenstein** and K. Barnard. 2024. FathomNet 2024 Competition - What on Earth is that?! Novel category discovery in the deep sea. *11th Fine-Grained Visual Categorization Workshop at CVPR 2024*. \[[competition](https://www.kaggle.com/competitions/fathomnet2024/overview)\]\[[git](https://github.com/fathomnet/fgvc-comp-2024)\]
 
 ## 2023
 ![image-left](/assets/images/papers/2023/chi23-208-fig2.jpg){: width="250" }{: .align-left} Crosby, A., **E.C. Orenstein**, S. Poulton, K.C. Bell, B. Woodward, H. Ruhl, K. Katija, and A.G. Forbes. 2023. Designing Ocean Vision AI: An Investigation of Community Needs for Imaging-based Ocean Conservation. *ACM CHI Conference on Human Factors in Computing Systems* 1-16. \[[paper](https://doi.org/10.1145/3544548.3580886)\]
