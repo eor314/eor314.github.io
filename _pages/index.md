@@ -3,7 +3,7 @@ permalink: /
 title: ""
 ---
 
-I develop and apply machine learning techniques, informed by (mostly marine) ecological questions and engineering constraints, to facilitate observing systems that address long-standing scientific questions with societal relevance. I lead the AI team at the UK National Oceanography Centre where we work on problems ranging from decision making on autonomus systems to developing new approaches for analyzing global-scale model output. 
+I develop and apply machine learning techniques, informed by (mostly marine) ecological questions and engineering constraints, to facilitate observing systems that address long-standing scientific questions with societal relevance. I lead the AI team at the UK National Oceanography Centre where we work on diverse problems, from decision making on autonomus systems to analyzing global-scale model output. 
 
 ## News
 - **2025-01-04** I am co-leading the [Workshop on Computer Vision Methods for Ecology](https://cv4ecology.caltech.edu/) workshop at the Caltech Resnick Sustainability Institute with Sara Beery. 
