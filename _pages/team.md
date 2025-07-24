@@ -17,3 +17,6 @@ author_profile: false
 \
 \
 ![image-left](){: width="250" }{: .align-left} **Jonathan Coney** \[[NOC Profile](https://noc.ac.uk/n/Jonathan%20Coney)\]
+
+## Interns 
+![image-left](){: width="250" }{: .align-left} **Polina Mosyagina**
