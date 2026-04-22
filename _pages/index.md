@@ -7,7 +7,7 @@ I develop and apply machine learning techniques, informed by (mostly marine) eco
 
 ## News
 - **2026-03-04** Check out the [Smithsonian's write up](https://nationalzoo.si.edu/conservation/news/help-save-wildlife-ecologists-learn-ai-skills-zoos-science-campus) of the 2026 CV4Ecology Short Course.
-- **2026-02-27** Our team had a great showing at the [2026 Ocean Science Meeting](https://www.agu.org/Ocean-Sciences-Meeting) in Glasgow! Alex presented a [e-Lightening poster on the BRAIN](https://scholar.google.com/scholar?cluster=12319621624958798022&hl=en&oi=scholarr) and Jonathan gave a [talk about the machine learning work happening in SORTED](https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2019598).   
+- **2026-02-27** Our team had a great showing at the [2026 Ocean Science Meeting](https://www.agu.org/Ocean-Sciences-Meeting) in Glasgow! Alex presented an [e-Lightening poster on the BRAIN](https://scholar.google.com/scholar?cluster=12319621624958798022&hl=en&oi=scholarr) and Jonathan gave a [talk about the machine learning work happening in SORTED](https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2019598).   
 - **2025-07-24** Our paper on using [out-of-the-box foundation models to assist annotators of marine imagery](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1469396/full) is out in Frontiers. 
 - **2025-06-30** Welcome to Polina, our summer intern through the [IGNITE DLA program](https://ignite-dla.soton.ac.uk/)! Polina will collect plankton samples from NOC's pontoon, develop a computer vision model to classify the images, and examine population changes. 
 - **2025-06-02** The application for the [2026 CV4Ecology workshop](https://cv4ecology.csail.mit.edu/call_for_applications.html) is now live! 
