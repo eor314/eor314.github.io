@@ -57,8 +57,10 @@ author:
   name   : "Eric Orenstein"
   avatar : "/assets/images/erico.jpeg"
   bio    : "Senior Research Fellow"
-  email  : "eric.orenstein [at] kcl.ac.uk"
   links:
+    - label: "eric.orenstein [at] kcl.ac.uk"
+      icon: "fas fa-envelope-square"
+      url: "eric.orenstein [at] kcl.ac.uk"
     - label: "KCL Profile"
       icon: "fas fa-fw fa-link"
       url: "https://www.kcl.ac.uk/people/eric-orenstein"
