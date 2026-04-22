@@ -56,7 +56,8 @@ plugins:
 author:
   name   : "Eric Orenstein"
   avatar : "/assets/images/erico.jpeg"
-  bio    : "Senior Research Fellow \n eric.orenstein [at] kcl.ac.uk"
+  bio    : "Senior Research Fellow \
+   eric.orenstein [at] kcl.ac.uk"
   links:
     - label: "KCL Profile"
       icon: "fas fa-fw fa-link"
