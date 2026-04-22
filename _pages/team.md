@@ -1,6 +1,6 @@
 ---
-permalink: /team/
-title: "Team"
+permalink: /lab/
+title: "Lab"
 classes: "wide"
 author_profile: false
 ---

@@ -1,5 +1,5 @@
 main:
-  - title: "Team"
-    url: /team/
+  - title: "Lab"
+    url: /lab/
   - title: "Publications"
     url: /publications/
