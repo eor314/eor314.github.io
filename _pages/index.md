@@ -3,9 +3,11 @@ permalink: /
 title: ""
 ---
 
-I develop and apply machine learning techniques, informed by (mostly marine) ecological questions and engineering constraints, to facilitate observing systems that address long-standing scientific questions with societal relevance. I am an AI+ Senior Research Fellow in the Department of Informatics at King's College London where we work on diverse problems, from decision making for autonomus systems to making population estimates based on *in situ* visual data. 
+I develop and apply machine learning techniques, informed by (mostly marine) ecological questions and engineering constraints, to facilitate observing systems that address long-standing scientific questions with societal relevance. I am an AI+ Senior Research Fellow in the Department of Informatics at King's College London working on diverse problems, from decision making for autonomus systems to making population estimates based on *in situ* visual data. 
 
 ## News
+- **2026-06-05** The applications for the 5th [CV4Ecology Short Course](https://smconservation.gmu.edu/programs/graduate-and-professional-2/cv4ecology/) is now open! Join us in January 2027 at the Smithsonian Conservation Biology Institue to learn how to accelerate the processing of your ecological visual data.
+- **2026-04-10** I am speaking at the [KCL Department of Informatics Industry Showcase](https://www.kcl.ac.uk/events/kings-informatics-industry-showcase-2026) during London Tech Week. Come by an hear about all the cool research happening at King's (plus some fun underwater stuff).
 - **2026-03-04** Check out the [Smithsonian's write up](https://nationalzoo.si.edu/conservation/news/help-save-wildlife-ecologists-learn-ai-skills-zoos-science-campus) of the 2026 CV4Ecology Short Course.
 - **2026-02-27** Our team had a great showing at the [2026 Ocean Science Meeting](https://www.agu.org/Ocean-Sciences-Meeting) in Glasgow! Alex presented an [e-Lightening poster on the BRAIN](https://scholar.google.com/scholar?cluster=12319621624958798022&hl=en&oi=scholarr) and Jonathan gave a [talk about the machine learning work happening in SORTED](https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2019598).   
 - **2025-07-24** Our paper on using [out-of-the-box foundation models to assist annotators of marine imagery](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1469396/full) is out in Frontiers. 
